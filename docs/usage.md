@@ -1,4 +1,4 @@
-Using the Ink! IDE Integration
+# Using the Ink! IDE Integration
 Connecting to Aleph Zero
 Open the Ink! IDE integration.
 
@@ -15,7 +15,7 @@ Select the Ink! language.
 
 Enter the project name and click the "Create" button.
 
-# Writing Ink! Contracts
+## Writing Ink! Contracts
 
 Use the IDE's editor to write Ink! contracts.
 

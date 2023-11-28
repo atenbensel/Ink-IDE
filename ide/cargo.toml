@@ -1,0 +1,13 @@
+[package]
+name = "ink-ide"
+version = "0.1.0"
+edition = "2023"
+
+[dependencies]
+vscode-languageclient = "0.6"
+vscode-lsp-server = "0.5"
+ink = "0.3"
+aleph-zero-sdk = "0.2"
+
+[lib]
+crate-type = ["cdylib"]

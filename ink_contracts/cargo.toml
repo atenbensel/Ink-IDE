@@ -1,0 +1,10 @@
+[package]
+name = "ink-contracts"
+version = "0.1.0"
+edition = "2023"
+
+[dependencies]
+ink = "0.3"
+
+[lib]
+crate-type = ["cdylib"]
